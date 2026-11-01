@@ -3,4 +3,4 @@
 El trabajo tuvo como objetivo utilizar Gemini Notebook como herramienta de investigación para analizar y comparar dos temas posibles para el proyecto final de la materia. A través de la búsqueda y el análisis de información, se buscó identificar la alternativa más adecuada, teniendo en cuenta la evidencia científica disponible y los intereses vocacionales.
 
 ## Informe
-Documento del trabajo práctico: [📄 Ver PDF](./Elección%20tema.pdf)
+Documento del trabajo práctico: [📄 Ver PDF](./Eleeción%20tema.pdf)
